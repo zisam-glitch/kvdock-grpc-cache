@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-grpc-cache",
+  "version": "1.0.0",
+  "description": "gRPC unary response caching interceptor with kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.1"
+  },
+  "license": "MIT"
+}
